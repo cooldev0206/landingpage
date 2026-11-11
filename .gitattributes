@@ -8,3 +8,13 @@
 *.tsx text eol=lf
 *.json text eol=lf
 *.css text eol=lf
+*.scss text eol=lf
+*.html text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+
+# Images
+*.png binary
+*.jpg binary
+*.jpeg binary
